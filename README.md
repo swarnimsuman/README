@@ -1,3 +1,1 @@
-# README
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?D54CB8C5F0F824D47F9DB86C6E3A74E5A169
+https://prod.liveshare.vsengsaas.visualstudio.com/join?434D5E169BF0D3BFF32DE477A96985B0A374
